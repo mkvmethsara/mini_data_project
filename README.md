@@ -4,7 +4,7 @@ This project was completed for the Programming Fundamentals module. It involves 
 
 ## Description
 
-The main goal of this project is to practice data cleaning, analysis, and visualization techniques. The Colab notebook `[REPLACE WITH YOUR FILENAME.ipynb]` contains all the steps taken to explore the data.
+The main goal of this project is to practice data cleaning, analysis, and visualization techniques. The Colab notebook `inclasstestpfipynb.ipynb` contains all the steps taken to explore the data.
 
 ## Course Information
 
